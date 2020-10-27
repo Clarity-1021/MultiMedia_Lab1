@@ -4,5 +4,5 @@ function [z]=ulaw(y,u)
 %		Y=input vector.
 
 % todo: 
-
+    
 end
